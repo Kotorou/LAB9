@@ -10,13 +10,12 @@ void printO(int N,int M){
 	for(int i =1;i<=N;i++){
 	    for(int J = 1;J<=M;J++)
 	        cout <<"O";
-	 cout <<"\n";
+	cout <<"\n";
 	}
 	}
 }
 
 int main(){
-	
 	printO(2,2);
 	cout << "\n";
 	
